@@ -1,4 +1,4 @@
-# ClaudeUtil
+# UtilNFTbot
 ### Finding real value among NFTs on NEAR
 
 ---
